@@ -86,3 +86,6 @@ section {
 .bg3{
     background-image:url(sports-3.jpg) ;
 }
+.copyright { 
+    text-align: center;
+}
